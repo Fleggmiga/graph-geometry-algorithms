@@ -14,7 +14,7 @@ The project uses `matplotlib` and `k3d` for visualization
 
 Delaunay Triangulation 
 ![Delaunay](img/scr1.png)
-Minimum Spanning Tree (Prim's Algorithm, 2D)
+Minimum Spanning Tree (Prim's Algorithm)
 ![MST Prim](img/scr2.png)
-MST in 3D with k3d
+MST with k3d
 ![MST 3D](img/scr3.png)
