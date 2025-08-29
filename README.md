@@ -10,6 +10,15 @@ This project provides Python implementations of classical computational geometry
   - Kruskal's Algorithm
 
 The project uses `matplotlib` and `k3d` for visualization
+##Roadmap
+- [x] Delaunay triangulation
+- [x] MST (Prim / Kruskal)
+- [x] Gabriel Graph
+- [x] RNG
+- [ ] Voronoi diagram (coming soon)
+- [ ] Performance benchmarks
+
+
 ##Visualizations
 
 Delaunay Triangulation 
